@@ -8,7 +8,6 @@
 body {
 	font-family: "Barlow Semi Condensed", sans-serif;
 	line-height: 1;
-	background-color: #ecf2f8;
 }
 
 /* REUSABLE STYLES */
@@ -102,6 +101,10 @@ body {
 .card--4 .testimonial-text p:first-child,
 .card--5 .testimonial-text p:first-child {
 	margin-bottom: 1.5rem;
+}
+footer {
+	display: flex;
+	justify-content: center;
 }
 
 /* QUERIES */
